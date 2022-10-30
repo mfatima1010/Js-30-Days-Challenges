@@ -47,3 +47,5 @@ console.log(secondName);
 console.log(maritalStatus);
 console.log(country);
 console.log(age);
+
+// Day 1 completed
